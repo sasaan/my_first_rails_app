@@ -24,3 +24,5 @@ Things you may want to cover:
 * ...
 
 * Learn how to comment dingus
+# AM NOT DINGUS
+* Okay I learned to comment

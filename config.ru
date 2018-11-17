@@ -3,3 +3,5 @@
 require_relative 'config/environment'
 
 run Rails.application
+
+# Make sure nobody can see this 
